@@ -2,7 +2,7 @@
 
 [Jiamian Wang](https://jiamian-wang.github.io/), [Huan Wang](https://huanwang.tech/), [Yulun Zhang](http://yulunzhang.com/), [Yun Fu](https://coe.northeastern.edu/people/fu-yun/), [Zhiqiang Tao](https://ztao.cc/), "Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution", ICCV, 2023 (Poster)
 
-[[ArXiv](https://arxiv.org/abs/2211.13654)] [[Pretrained Models](https://drive.google.com/drive/folders/15qmpQ9SffZxKEj-MYsyWbg04FYOYLmwX?usp=sharing)] [[Datasets](https://drive.google.com/file/d/1aXLvnz24JkzcuNMHvvn3uf5HCrXsYakH/view?usp=sharing)]  [[Results](https://github.com/Jiamian-Wang/IST_for_SR_pruning/tree/main/figures/visual_results)]
+[[ArXiv]([https://arxiv.org/abs/2211.13654](https://arxiv.org/pdf/2303.09650.pdf))] [[Pretrained Models](https://drive.google.com/drive/folders/15qmpQ9SffZxKEj-MYsyWbg04FYOYLmwX?usp=sharing)] [[Datasets](https://drive.google.com/file/d/1aXLvnz24JkzcuNMHvvn3uf5HCrXsYakH/view?usp=sharing)]  [[Results](https://github.com/Jiamian-Wang/IST_for_SR_pruning/tree/main/figures/visual_results)]
 
 ---
 
